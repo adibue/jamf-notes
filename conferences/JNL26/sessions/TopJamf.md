@@ -35,4 +35,4 @@ Got no clue where to start?
 
 Then [Jamf Routines](https://www.jamfroutines.com/sc/home.aspx) is here to help!
 
-It is a simple website offering tons of templates to get you started on automating things! 🤖
+It is a simple website offering tons of templates to get you started on automating workflows and integrating products, be it Jamf or 3rd party tools! 🤖
