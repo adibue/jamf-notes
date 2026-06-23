@@ -6,7 +6,7 @@ _by **Armin Briegel** and **Thomas Ortscheid**_
 
 - Startup taking more time because of additional pSSO and DDM options in macOS 26
 - **WebHooks**: e.g. send messages to Mattermost when Setup Manager has finished
-  - Setup Manager HUD: Can display statistics based on WebHooks ← <span style="color:red">_add link here_</span>
+  - Setup Manager HUD: Can display statistics based on WebHooks ← <p style="color:red">_add link here_</p>
 
 ### Managed Migration Assistant
 
