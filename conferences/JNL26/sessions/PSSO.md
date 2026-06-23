@@ -23,3 +23,11 @@ _by **Armin Briegel** and **Thomas Ortscheid**_
     - Entra ID Company Portal
     - Twocanoes XPSSO
     - Keycloak
+
+## Setup Checklist
+
+- Essentially a customizable welcome screen
+- Can be used to further customize things after login, e.g.:
+  - Browser
+  - Mail Setup
+  - Microphone and Camera access
