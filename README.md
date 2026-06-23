@@ -2,7 +2,7 @@
 
 A repo containing notes about tools, sessions and trainings regarding Jamf and Apple Device Management.
 
-## Tools
+## Tools & Links
 
 A list of useful tools for making a Mac Sys Admin's life easier.  
 Most of them work with non-Jamf-systems as well 🙂
@@ -21,3 +21,11 @@ Most of them work with non-Jamf-systems as well 🙂
 
 - Jamf [Setup Checklist](https://github.com/Jamf-Concepts/setup-checklist)
 - Jamf [Setup Manager](https://github.com/jamf/setup-manager)
+
+### General
+
+- [Jamf Concepts](https://concepts.jamf.com/)
+
+### Updates & Upgrades
+
+- Jamf [Upgrade Manager](https://jamf.it/UpgradeManager) (**iOS app** | **Private Beta**)
