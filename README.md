@@ -11,7 +11,7 @@ Most of them work with non-Jamf-systems as well 🙂
 
 - Jamf [Compliance Editor](https://github.com/Jamf-Concepts/jamf-compliance-editor)
   - → Also available in _Jamf Pro Compliance UI_
-- NIST [macOS Security Compliance Project](https://github.com/usnistgov/macos_security)
+- NIST [macOS Security Compliance Project](https://pages.nist.gov/macos_security/)
 
 ### Configuration
 
