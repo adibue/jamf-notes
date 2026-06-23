@@ -9,5 +9,6 @@ Most of them work with non-Jamf-systems as well 🙂
 
 ### Jamf
 
-- Jamf Concepts [DDM Explorer](https://github.com/Jamf-Concepts/ddm-explorer)
-- Jamf Concepts [Setup Checklist](https://github.com/Jamf-Concepts/setup-checklist)
+- Jamf [DDM Explorer](https://github.com/Jamf-Concepts/ddm-explorer)
+- Jamf [Setup Manager](https://github.com/jamf/setup-manager)
+- Jamf [Setup Checklist](https://github.com/Jamf-Concepts/setup-checklist)
