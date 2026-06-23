@@ -8,3 +8,9 @@ _by **Luke Allen**_
   - **7** of them were _Known Exploited Vulnerabilities_ (KEV).
 
 - Apple is about to remove _com.apple.SoftwareUpdate_ restrictions and _MDM commands_ for software update management this year
+
+## Why updates are hard
+
+- Visibility: _"Did it actually work?"_
+- Failure: _"Why did it fail?"_
+- Pressure: _"Can we prove compliance?"_
