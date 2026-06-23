@@ -28,6 +28,7 @@ Most of them work with non-Jamf-systems as well 🙂
 
 ### General
 
+- [Jamf CLI](https://github.com/Jamf-Concepts/jamf-cli)
 - [Jamf Concepts](https://concepts.jamf.com/)
 - [Jamf Extender](https://github.com/Jamf-Concepts/Jamf-Extender)
 
