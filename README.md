@@ -7,6 +7,10 @@ A repo containing notes about tools, sessions and trainings regarding Jamf and A
 A list of useful tools for making a Mac Sys Admin's life easier.  
 Most of them work with non-Jamf-systems as well 🙂
 
+### Automation
+
+- [Jamf Routines](https://www.jamfroutines.com/)
+
 ### Compliance
 
 - Jamf [Compliance Editor](https://github.com/Jamf-Concepts/jamf-compliance-editor)
@@ -25,6 +29,7 @@ Most of them work with non-Jamf-systems as well 🙂
 ### General
 
 - [Jamf Concepts](https://concepts.jamf.com/)
+- [Jamf Extender](https://github.com/Jamf-Concepts/Jamf-Extender)
 
 ### Updates & Upgrades
 
