@@ -7,8 +7,17 @@ A repo containing notes about tools, sessions and trainings regarding Jamf and A
 A list of useful tools for making a Mac Sys Admin's life easier.  
 Most of them work with non-Jamf-systems as well 🙂
 
-### Jamf
+### Compliance
+
+- Jamf [Compliance Editor](https://github.com/Jamf-Concepts/jamf-compliance-editor)
+  - → Also available in _Jamf Pro Compliance UI_
+- NIST [macOS Security Compliance Project](https://github.com/usnistgov/macos_security)
+
+### Configuration
 
 - Jamf [DDM Explorer](https://github.com/Jamf-Concepts/ddm-explorer)
-- Jamf [Setup Manager](https://github.com/jamf/setup-manager)
+
+### Deployment
+
 - Jamf [Setup Checklist](https://github.com/Jamf-Concepts/setup-checklist)
+- Jamf [Setup Manager](https://github.com/jamf/setup-manager)
